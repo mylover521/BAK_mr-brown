@@ -1,6 +1,6 @@
 title: 琉晶坊
 description: 琉晶坊
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.asia.ga" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 
